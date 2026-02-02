@@ -29,5 +29,4 @@ The final deliverable is an interactive Tableau dashboard that summarizes sales 
 
 ## Files in This Repository
 - `data/` – Raw dataset used for the analysis (CSV)
-- `tableau/` – Tableau workbook file
 - `images/` – Dashboard screenshot
