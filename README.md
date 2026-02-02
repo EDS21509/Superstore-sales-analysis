@@ -30,5 +30,6 @@ The final deliverable is an interactive Tableau dashboard that summarizes sales 
 ## Files in This Repository
 - `data/` – Raw dataset used for the analysis (CSV)
 - `images/` – Dashboard screenshot
-![Dashboard Overview](<img width="1869" height="857" alt="superstore_dashboard_screenshot" src="https://github.com/user-attachments/assets/5c4d2092-36f8-4a46-8f81-bca2bb781fb1" />
-)
+
+## Tableau Dashboard Preview
+![Dashboard Overview](https://github.com/EDS21509/Superstore-sales-analysis/blob/main/superstore_dashboard_screenshot.png)
