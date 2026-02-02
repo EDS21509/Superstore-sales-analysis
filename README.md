@@ -18,13 +18,15 @@ The final deliverable is an interactive Tableau dashboard that summarizes sales 
 - The West and East regions generate the highest sales.
 - A small number of products account for a large portion of total revenue.
 
+**Key Takeaway:**  
+Sales growth is primarily driven by Technology products and strong performance in the West and East regions, with revenue concentrated among a small number of top products.
+
 ## Tools & Skills Used
-- Tableau Desktop (Public Edition)
+- Tableau 
 - Excel-based analysis replication
 - Data visualization and dashboard design
 - Trend analysis
 - Category and regional performance analysis
-- Top-N product analysis
 - Business insight communication
 
 ## Files in This Repository
